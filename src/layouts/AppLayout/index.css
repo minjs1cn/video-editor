@@ -1,0 +1,14 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.preview {
+  flex: 1;
+  display: flex;
+}
+.edit {
+  height: 320px;
+  padding: 16px;
+  display: flex;
+}
